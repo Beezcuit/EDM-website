@@ -9,17 +9,11 @@
 }
 
 
-
-/* Neon Başlık */
 .house-theme .neon-title {
   color: #a0522d;
-  /* sienna/kahve ton */
   text-shadow: 0 0 6px #5c2c1d, 0 0 12px #ffb199;
 }
 
-
-
-/* Spotify Butonları */
 .spotify-btn {
   background: transparent;
   border: 1px solid #fff;
